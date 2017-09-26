@@ -1,4 +1,4 @@
-Help, a French regulator is deciding whether I am able to have knowledge about another person's private life without their consent!
+
 
 
 The right to be forgotten should always be a law. Someone who regrets having information leaked about them that is not a threat to security should always be allowed to be forgotten. The concept of freedom of speech and freedom of information is inherently flawed in the first place. Since this was the main argument against the right to be forgotten I will try to deal with this. 
