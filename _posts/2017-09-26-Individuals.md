@@ -1,10 +1,5 @@
-layout: post-light-feature
-title: Help, a French regulator is deciding whether I am able to have knowledge about another person's private life without their consent!
-description: The right to be forgotten should always be a law. 
-categories: articles
-date: 17/09/26
-image: null
-published: true
+Help, a French regulator is deciding whether I am able to have knowledge about another person's private life without their consent!
+
 
 The right to be forgotten should always be a law. Someone who regrets having information leaked about them that is not a threat to security should always be allowed to be forgotten. The concept of freedom of speech and freedom of information is inherently flawed in the first place. Since this was the main argument against the right to be forgotten I will try to deal with this. 
  The freedom in freedom of speech and freedom of information never is actually defined. In this case we do not know what freedom is. However, I will assume that freedom is an individual's existing agency in the structure of their society.  The idea of individuality especially in the US is a problematic one. Firstly, it assumes that there is such a thing as an individual, a human that exists outside of society. This would imply that a human living by themselves in the wild would have the ultimate freedom, but would also still be a human. But it is not taken into account that survival would be impossible as since the beginning of humanity, the hunter gatherers and so on, humans have always been social being. Secondly, that this existing individual has agency in the broader structure of society to make their own decisions and choices. This however is a western invention I would argue. There is no such agency in any society. There are multiple factors that constrict an individual's agency such as social class, religion, ethnicity, race, culture, etc. All these things shape and individual and impose in them a sense of right and wrong or a set of unspoken rules on how they are allowed to act. 
